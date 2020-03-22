@@ -68,6 +68,8 @@ NOTE: The Git plugin and the scanIncludes configuration is shown to enable the e
 
 Download the shaded JAR file from https://search.maven.org/artifact/org.jqassistant.contrib.plugin/jqassistant-wordcloud-report-plugin[Maven Central] and put it into the `/plugins` folder of the distribution.
 
+NOTE: For the Git example install the plugin provided by Kontext E following the instructions on the project's page on https://github.com/kontext-e/jqassistant-plugins[GitHub].
+
 == Reporting A Word Cloud
 
 A word cloud can simply be created by setting the report type of a concept or constraint to `wordcloud`:
