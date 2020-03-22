@@ -9,7 +9,7 @@
 
     <groupId>org.jqassistant.contrib.plugin</groupId>
     <artifactId>jqassistant-wordcloud-report-plugin</artifactId>
-    <version>1.8.0</version>
+    <version>1.9.0-SNAPSHOT</version>
 
     <name>jQAssistant Word Cloud Report Plugin</name>
     <description>The jQAssistant report plugin for creating word clouds from from rule results.</description>
@@ -28,7 +28,7 @@
         <developerConnection>scm:git:git@github.com:jqassistant-contrib/jqassistant-wordcloud-report-plugin.git
         </developerConnection>
         <url>https://github.com/jqassistant-contrib/jqassistant-wordcloud-report-plugin</url>
-        <tag>1.8.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
