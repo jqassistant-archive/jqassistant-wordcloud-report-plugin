@@ -1,0 +1,16 @@
+<jqassistant-rules xmlns="http://schema.jqassistant.org/rule/v1.8">
+
+    <concept id="wordcloud-test:ScalarValues">
+        <description></description>
+        <cypher><![CDATA[
+		  WITH
+		    ["Value1", "Value2", "Value1"] as values
+		  UNWIND
+		    values as value
+		  RETURN
+		    value
+        ]]></cypher>
+        <report type="wordcloud"/>
+    </concept>
+
+</jqassistant-rules>

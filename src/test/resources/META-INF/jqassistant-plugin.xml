@@ -1,0 +1,6 @@
+<jqassistant-plugin xmlns="http://schema.jqassistant.org/plugin/v1.8" name="WordCloud Report Test">
+    <description>Provides rules for Word Cloud report testing.</description>
+    <rules>
+        <resource>wordcloud-test.xml</resource>
+    </rules>
+</jqassistant-plugin>

@@ -1,6 +1,6 @@
 <jqassistant-plugin xmlns="http://schema.jqassistant.org/plugin/v1.8" name="WordCloud Report">
     <description>Reports rule results as word clouds.</description>
     <report>
-        <class id="wordcloud">org.jqassistant.contrib.plugin.wordcloud.report.WordCloudReportPlugin</class>
+        <class id="wordcloud">org.jqassistant.contrib.plugin.wordcloud.WordCloudReportPlugin</class>
     </report>
 </jqassistant-plugin>
