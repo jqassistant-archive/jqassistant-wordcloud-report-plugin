@@ -1,6 +1,8 @@
 :toc:
 = jQAssistant Word Cloud Report Plugin
 
+NOTE:: This project has been archived and is no longer actively developed. Please refer to the existing releases and documentation.
+
 The project provides a http://jqassistant.org/[jQAssistant] plugin for creating word clouds as reports.
 
 Rendering is performed by https://github.com/kennycason/kumo[Kumo] - Kudos to Kenny Cason!
